@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\repositories\\putovanjerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:repositories\\putovanjerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\services\\putovanjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:services\\putovanjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\services\\iputovanjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:services\\iputovanjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\repositories\\iputovanjerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:repositories\\iputovanjerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\migrations\\20250119141512_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:migrations\\20250119141512_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\models\\putovanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:models\\putovanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|c:\\users\\user\\desktop\\zadatak5_kuci2\\putovanja\\enums\\statusputovanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CE22A1-0F69-4C17-847E-721972FABE70}|Zadatak.csproj|solutionrelative:enums\\statusputovanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PutovanjeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Services\\PutovanjeService.cs",
+              "RelativeDocumentMoniker": "Services\\PutovanjeService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Services\\PutovanjeService.cs",
+              "RelativeToolTip": "Services\\PutovanjeService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:49:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPutovanjeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Services\\IPutovanjeService.cs",
+              "RelativeDocumentMoniker": "Services\\IPutovanjeService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Services\\IPutovanjeService.cs",
+              "RelativeToolTip": "Services\\IPutovanjeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:48:43.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PutovanjeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Repositories\\PutovanjeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PutovanjeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Repositories\\PutovanjeRepository.cs",
+              "RelativeToolTip": "Repositories\\PutovanjeRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:53:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPutovanjeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Repositories\\IPutovanjeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPutovanjeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Repositories\\IPutovanjeRepository.cs",
+              "RelativeToolTip": "Repositories\\IPutovanjeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:50:29.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Migrations\\DataBaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataBaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Migrations\\DataBaseContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataBaseContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:15:19.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:58:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250119141512_initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Migrations\\20250119141512_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250119141512_initial.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Migrations\\20250119141512_initial.cs",
+              "RelativeToolTip": "Migrations\\20250119141512_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:15:12.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Putovanje.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Models\\Putovanje.cs",
+              "RelativeDocumentMoniker": "Models\\Putovanje.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Models\\Putovanje.cs",
+              "RelativeToolTip": "Models\\Putovanje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:42:03.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatusPutovanja.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Enums\\StatusPutovanja.cs",
+              "RelativeDocumentMoniker": "Enums\\StatusPutovanja.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Enums\\StatusPutovanja.cs",
+              "RelativeToolTip": "Enums\\StatusPutovanja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:29:17.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Data\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zadatak5_kuci2\\Putovanja\\Data\\DataBaseContext.cs",
+              "RelativeToolTip": "Data\\DataBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:13:30.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
